@@ -1,0 +1,22 @@
+{
+	"extName" : {
+        "message": "Tict Tac Toe",
+        "description": "Extension name"
+    },
+	"extDesc" : {
+        "message": "Displays a large game screen  and can play when tab is closed",
+        "description": "Extension description"
+    },
+    "title_alarm_remove" : {
+        "message": "Remove Tic Tac Toe"
+    },
+    "title": {
+    	"message": "Tict Tac Toe"
+    },
+	"configuration": {
+		"message": "Configuration"
+	},
+	"close": {
+		"message": "Close"
+	}
+}
